@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An accompt of both the fleets their number and stations, with a perfect narrative of occurrences that have passed between them hitherto : in a letter from aboard the Edgar.</title>
+            <author>T. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43188</idno>
+            <idno type="STC">Wing H129</idno>
+            <idno type="STC">ESTC R23961</idno>
+            <idno type="EEBO-CITATION">07933751</idno>
+            <idno type="OCLC">ocm 07933751</idno>
+            <idno type="VID">40526</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43188)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40526)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1207:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An accompt of both the fleets their number and stations, with a perfect narrative of occurrences that have passed between them hitherto : in a letter from aboard the Edgar.</title>
+                  <author>T. H.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.P.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>In the year, 1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: T.H.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dutch War, 1672-1678 --  Naval operations.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40526:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 51 -->
+            <p>AN ACCOMPT Of both the FLEETS: THEIR Number and Stations. With a perfect NARRATIVE OF OCCURRENCES That have paſſed between them hitherto: In a LETTER From Aboard the <hi>EDGAR.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>A. P.</hi> in the Year, 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:40526:2"/>
+            <!-- PDF PAGE 52 -->
+            <pb facs="tcp:40526:2"/>
+            <!-- PDF PAGE 52 -->
+            <head>A LETTER FROM THE FLEET.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>I Am obliged ſomewhat by <hi>promiſe,</hi> but more by <hi>Friendſhip,</hi> to give you an accompt both of <hi>my own,</hi> and the <hi>Fleets condition:</hi> But the <hi>former</hi> has ſo neceſſary a <hi>depen<g ref="char:EOLhyphen"/>dance</hi> upon the <hi>latter,</hi> that to tel you 'tis well with me, when 'tis ſo with the <hi>Fleet,</hi> would be as much a <hi>Tautology,</hi> as the <hi>contrary</hi> wou'd be a <hi>falſhood.</hi> Sir, you know I have ever lived p<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>entifully and chearfully, bleſt be the company of ſuch friends, (and amongſt them particularly your ſelf) as have even ſet <hi>bounds</hi> to my <hi>wiſhes</hi> of any <hi>Happineſs,</hi> beyond what I enjoy'd: But really, now I find a pleaſure in my life, ſo much beyond whatſoever I could have hop'd for in it; that I ſhould even grow a Coward for fear of loſing it, but that the very hazard proves the greateſt part of that pleaſure, I elſe might fear the being diſpoſſeſt of. Sir, to be in the midſt of the gallanteſt <hi>Fleet</hi> that I'm ſure, ever eyes beheld, to be under the Con<g ref="char:EOLhyphen"/>duct of a Prince, skilful to a Miracle, and Valiant. to Terrour: To Engage in the behalf of the beſt of Kings, againſt the worſt of States: How great is the encouragement!—Dear Sir, pardon me Loyalty guides my hand to write more than I deſigned, though leſs than I think: Your own breaſt ſupplies you with ſuch ſuggeſtions, as would render what I can ſay move impertinent: And therefore to purſue my deſign a little nearer, I muſt come to particulars, and give you an ac<g ref="char:EOLhyphen"/>compt of what happned ſince our being off at Sea, and of theſe occurrences your <hi>Gazetts</hi> furniſh you with ſo true and ſpeedy intelligence, that I ſuppoſe my relation will, by that time it has the happineſs of k<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſing your hands, loſe the Name of News: and (like Cider carried by Sea) decay in it's Spirit and become inſiped: However it is one part of the Service that I owe you to endeavour to ſerve you.</p>
+            <p>The laſt intelligence you had from my Couſin <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as I remember, gave you a full accompt of all tranſactions, till the third inſtant, at which time our <hi>Fleet</hi> was about half a League from the middle ground, the Wind was (I can hardly ſay it blew (<hi>North-eaſtwardly,</hi> but it prov'd ſo very ſcant, that we were forc'd to come to an <hi>Ankon:</hi> And about three in the afternoon we ſaw the <hi>Dutch Fleet,</hi> in all, about Threeſcore and Six or Seven Sail, firſt at an <hi>Anchor,</hi> but about Six a Clock they weigh'd and ſtood <hi>South-wardly,</hi> making way (as near as we conjecture) towards the <hi>Long-ſands.</hi>
+            </p>
+            <p>On the morrow we found them lying at <hi>Anchor,</hi> between <hi>Orfordneſs,</hi> and <hi>Hoſley-Bay,</hi> having divided themſelves into two Squadrons. We all flatter'd our ſelves with the hopes of making up to them, and coming ſpeedily to an Engagement; but they took all imaginable care to ſtand off, and keep the Weather-gage, continually ſhifting their Station by night, inſomuch that they never were at any certainty.</p>
+            <p>
+               <pb n="4" facs="tcp:40526:3"/>
+               <!-- PDF PAGE 53 -->
+On the fifth inſtant we got to our Main-tops, but the Weather being ſomewhat Hazy, we could not ken them; inſomuch that his Highneſs Prince <hi>Rupert,</hi> thought fit to ſend forth ſcouts every way, to try if he could diſcover them, one of which in a ſhort time returned with this advice, that the Enemy was Anchor'd in the Gun-Fleet, whereupon the Prince immediately commanded us to Weigh, hoping if poſſible to reach them that night, or however, early the next morning, but the poor ſhifters ſmelt the danger, and inſtantly got them packing in a lamentable hurry and ſtood <hi>Eaſt-ward,</hi> with all the ſail they could make; leaving behind them a ſmall Dogger, which ſome of the ſcouts took, and brought back to our Fleet. You could not have contain'd your ſelf from Laughter, to have ſeen what a ſcornful anger our Seamen expreſſ'd when they found themſelves fruſtrated in their hopes of an Engagement; One with threats, Another with ſcorn, a third with revilings (ſuch as were true e<g ref="char:EOLhyphen"/>nough) ſufficiently expreſſing their own Valour, and the enemies Cowardize, and Fear; which (a very ingenious Gentleman) obſerving; Fellow <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouldiers (ſays he in a ſmile) would you not have the Boors, run for ſhelter, when they ſmell a Storm in the Wind?</p>
+            <p>On the Seventh Inſtant, we met with a ſmall <hi>Oftender,</hi> who told us that he the day before had paſſed through the whole Dutch Fleet, and that he believ'd they had (ſmall and great) Seventy two or three Sail; that he then left them Anchoring on the Coaſt of <hi>Zealand,</hi> at a Place call'd <hi>Scone-Velt.</hi> He ſaid that they had not (at moſt) above forty five men of War; adding that he was call'd aboard their Admiral, who had but five hundred and fifty men aboard her, and yet they confeſſed her to be the beſt man'd Frigot they had. He aſſured us moreover that he was confident they would never engage us, if they could poſſibly avoid it; for that their men expreſſed nothing but fear, nor their ſhips, but Weakneſs. And now ſince they were got ſo far out of the way. his Highneſs thought convenient to joyn as ſoon as poſſible with the <hi>French,</hi> of which he was pleaſed to advertize <hi>Count d' Eſtrdes,</hi> Vice Admiral of <hi>France,</hi> that ſo he might meet him in the <hi>Downs,</hi> where his Highneſs intends the General Rendezvows, in order whereto we made all the ſail we could and ſtood for <hi>Dover,</hi> of which we came in ſight a Friday Morning early, the Wind blowing freſh &amp; very fair, inſomuch that we are in hopes of making the <hi>Downs</hi> this evening, where you may expect we ſhall ſuddainly joyn with the <hi>French</hi> Fleet.</p>
+            <p>And now Sir, I am to beg your pardon, that I have been ſo tedious in repeating, (for ought I know) ſtale <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ews. This I aſſure you is the trueſt accompt I can give you of both the Fleets and though it be an <hi>
+                  <g ref="char:V">Ʋ</g>npolliſh'd</hi> one, yet (like a <hi>Rough Diamond</hi>) it may deſerve ſome value to be put on it, becauſe of it's <hi>Truth:</hi> I forbear to make any farther Apology, ſince what I have written is in order to your Commands, though poſſibly not in anſwear to your Expectation. Should there be any Engagement, there will lye one upon me (if I live) to give you the firſt accompt of it I can, and the trueſt, both which are debts incumbent upon my Zeal, and Integrity, to manifeſt my ſelf.</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your Faithful Kinſman, and moſt Humble Ser<g ref="char:EOLhyphen"/>vant, <hi>T.H.</hi>
+               </signed>
+               <dateline>
+                  <date>May 11th. 1673.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:40526:3"/>
+            <!-- PDF PAGE 53 -->
+         </div>
+      </body>
+   </text>
+</TEI>
